@@ -201,7 +201,7 @@
 }
 
 .theme-dark .wordmark__0d178::before {
-    content: "‏‏‎ c y b e r c h i l l";
+    content: "‏‏‎ d i s c o r d";
     font-size: 12px;
     font-family: "Poiret one" !important;
     position: fixed;
@@ -217,7 +217,7 @@
 }
 
 .wordmark__0d178:hover:before {
-    content: "‏‏‎ c y b e r c h i l l";
+    content: "‏‏‎ d i s c o r d";
     letter-spacing: 2px;
 }
 
