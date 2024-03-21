@@ -203,7 +203,7 @@
 /*WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA*/
 
 .theme-dark .wordmark__0d178::before {
-    content: "‏‏‎ d i s c o r d";
+    content: "‏‏‎ c h i l l";
     font-size: 12px;
     font-family: "Poiret one" !important;
     position: fixed;
@@ -219,29 +219,15 @@
 }
 
 .wordmark__0d178:hover:before {
-    content: "‏‏‎ d i s c o r d";
+    content: "‏‏‎ c h i l l";
     letter-spacing: 2px;
-}
-
-/*Home Button*/
-
-.homeIcon-r0w4ny path {fill: transparent}
-
-.homeIcon-r0w4ny {
-
-background: url('https://media.giphy.com/media/4ilFRqgbzbx4c/source.gif') center/cover no-repeat;
-
-min-width: 60px;
-
-min-height: 60px;
-
 }
 
 /* button design*/
 .theme-dark .lookFilled__19298 {
     border-radius: 45px;
     background: rgb(36, 36, 36) !important;
-    color: rgb(255, 255, 255) !important;
+    color: rgb(0, 0, 0) !important;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
     font-family: "Roboto";
     font-size: 12px;
